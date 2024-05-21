@@ -13,7 +13,7 @@ pynacl==1.5.0
 pyotp==2.3.0
 python_debian==0.1.43
 python_gnupg==0.4.8
-requests==2.25.1
+requests==2.32.0
 service_identity==18.1.0
 sqlalchemy==1.4.31
 twisted==22.1.0
