@@ -19,3 +19,4 @@ sqlalchemy==1.2.18
 twisted==18.9.0
 txtorcon==18.3.0
 zope.interface==4.7.1
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
